@@ -1,5 +1,5 @@
 {
-  "name": "realm-mongodb-task-tracker-app",
+  "name": "NodeJS-await-is-only-valid-in-async-function",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-to-music/Realm-MongoDB-Task-Tracker-App.git"
+    "url": "git+https://github.com/coding-to-music/NodeJS-await-is-only-valid-in-async-function.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-to-music/Realm-MongoDB-Task-Tracker-App/issues"
+    "url": "https://github.com/coding-to-music/NodeJS-await-is-only-valid-in-async-function/issues"
   },
-  "homepage": "https://github.com/coding-to-music/Realm-MongoDB-Task-Tracker-App#readme",
+  "homepage": "https://github.com/coding-to-music/NodeJS-await-is-only-valid-in-async-function#readme",
   "dependencies": {
     "axios": "^0.25.0",
     "dotenv": "^14.3.2"

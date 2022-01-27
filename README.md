@@ -1,8 +1,8 @@
-# Test using Data API with Atlas using Node and Axios
+# NodeJS await is only valid in async function
 
 https://docs.mongodb.com/realm/tutorial/realm-app/#std-label-tutorial-task-tracker-create-realm-app
 
-https://github.com/coding-to-music/Realm-MongoDB-Task-Tracker-App
+https://github.com/coding-to-music/NodeJS-await-is-only-valid-in-async-function
 
 Put your MongoDB Data API key in .env
 ```java
